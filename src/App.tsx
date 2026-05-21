@@ -15,14 +15,14 @@ export type MediaType = {
 
 const mediaList: MediaType[] = [
   {
-    url: "https://www.youtube.com/watch?v=SkVqJ1SGeL0",
-    title: "YouTube Video Sample",
+    url: "https://www.youtube.com/watch?v=i7UpPgxfZZ8",
+    title: "bein",
     subTitle: "Caminandes 3: Llamigos",
     preview: true,
   },
   {
-    url: "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8",
-    title: "HLS Stream Sample",
+    url: "https://chat.cfbu247.sbs/api/proxy/playlist?token=eyJjaGFubmVsSWQiOiI2MiIsInRzIjoxNzc5Mzg5ODM5MjQ0fQ==",
+    title: "HLS 247",
     subTitle: "Tears of Steel",
     preview:
       "https://mango.blender.org/wp-content/gallery/4k-renders/06_barley.jpg",
